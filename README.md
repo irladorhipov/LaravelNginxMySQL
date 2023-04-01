@@ -1,2 +1,2 @@
-# environment-laravel-nginx-mysql
+# Рабочее окружение
 Basic working environment for local laravel development
